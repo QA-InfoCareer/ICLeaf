@@ -2,10 +2,14 @@ package ActiveExam;
 
 public class GitTest {
 
-	public static void main(String[] args) {
+	public void one()
+	{
+		System.out.println("new method");
 		
-		System.out.println("Welcome to GIT Branch concept");
-
 	}
 
+	public void two()
+	{
+		System.out.println("second new method");
+	}
 }
